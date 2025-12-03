@@ -1,0 +1,1 @@
+You need to prepare three folders: a folder containing reflection-free facial images, a folder containing reflection maps, and a folder containing left and right eye masks. Run sysData.py to synthesize a single image, and run SysDataset.py to synthesize multiple images.
